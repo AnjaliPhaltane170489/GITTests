@@ -7,6 +7,8 @@ public class AddOperation {
 		int b=20;
 		int result=a+b;
 		System.out.println("The Addition is:"+result);
+		int sub=a-b;
+		System.out.println("Substraction is"+sub);
 	}
 
 }
